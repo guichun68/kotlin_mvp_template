@@ -1,6 +1,6 @@
 # 自动MVP代码生成模板
 ## 说明
-本项目是熟悉kotlin的语法和编程方式，另外做的一个自动生成MVP各种框架代码的模板工具。
+本项目是熟悉kotlin的语法和编程方式，一键生成MVPArms单个页面所需要的各种组件的工具。参考了jessYan的MVPArms全家桶模板  
 ## 使用方法：
  将所有文件拷贝到Android Studio安装目录下的  
  plugins\android\lib\templates\activities\  
